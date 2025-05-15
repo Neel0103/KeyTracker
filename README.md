@@ -1,19 +1,19 @@
 # KeySpotlight
 
 ## Project Overview
-KeySpotlight ek simple web application hai jo aapke keyboard se press kiye gaye key ka **Key**, **KeyCode**, aur **Code** realtime mein display karta hai. Isse developers aur learners ko browser mein keys ki properties samajhne mein madad milti hai.
+KeySpotlight is a simple web application that displays the **Key**, **KeyCode**, and **Code** of the key you press on your keyboard in real-time. It helps developers and learners understand key properties directly in the browser.
 
 ## Features
 - Real-time key press detection
-- Display of key name (with special handling for Space key)
-- Display of deprecated but common KeyCode value
-- Display of key's physical location (Code)
-- Responsive and clean UI
+- Displays key name (with special handling for the Space key)
+- Shows the deprecated but commonly used KeyCode value
+- Displays the physical location of the key (Code)
+- Responsive and clean user interface
 
 ## How to Use
-1. Is repository ko download ya clone karein.
-2. `index.html` file apne browser mein open karein.
-3. Kisi bhi key ko press karein, aur aap screen par us key ki details dekh sakte hain.
+1. Download or clone this repository.
+2. Open the `index.html` file in your browser.
+3. Press any key, and you will see its details displayed on the screen.
 
 ## Technologies Used
 - HTML
@@ -21,10 +21,10 @@ KeySpotlight ek simple web application hai jo aapke keyboard se press kiye gaye 
 - JavaScript
 
 ## Future Improvements
-- Multiple simultaneous key presses ko show karna
-- Display of modifier keys like Shift, Ctrl, Alt
+- Show multiple simultaneous key presses
+- Display modifier keys like Shift, Ctrl, Alt
 - Dark mode toggle
-- Accessibility improvements
+- Accessibility enhancements
 
 ## License
 MIT License
